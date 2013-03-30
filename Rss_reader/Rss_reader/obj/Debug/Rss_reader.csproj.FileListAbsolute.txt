@@ -1,0 +1,9 @@
+C:\IFMO\Rss_reader\Rss_reader\bin\Debug\Rss_reader.exe.config
+C:\IFMO\Rss_reader\Rss_reader\obj\Debug\Rss_reader.csprojResolveAssemblyReference.cache
+C:\IFMO\Rss_reader\Rss_reader\obj\Debug\MainWindow.baml
+C:\IFMO\Rss_reader\Rss_reader\obj\Debug\MainWindow.g.cs
+C:\IFMO\Rss_reader\Rss_reader\obj\Debug\App.g.cs
+C:\IFMO\Rss_reader\Rss_reader\obj\Debug\Rss_reader_MarkupCompile.cache
+C:\IFMO\Rss_reader\Rss_reader\obj\Debug\Rss_reader.g.resources
+C:\IFMO\Rss_reader\Rss_reader\obj\Debug\Rss_reader.Properties.Resources.resources
+C:\IFMO\Rss_reader\Rss_reader\obj\Debug\Rss_reader.csproj.GenerateResource.Cache
