@@ -1,8 +1,8 @@
+C:\IFMO\rss_atom_reader\rss_atom_reader\bin\Debug\rss_atom_reader.exe.config
 C:\IFMO\rss_atom_reader\rss_atom_reader\bin\Debug\rss_atom_reader.exe
 C:\IFMO\rss_atom_reader\rss_atom_reader\bin\Debug\rss_atom_reader.pdb
-C:\IFMO\rss_atom_reader\rss_atom_reader\bin\Debug\rss_atom_reader.exe.config
-C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\MainWindow.baml
-C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\MainWindow.g.cs
+C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\View\MainWindow.baml
+C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\View\MainWindow.g.cs
 C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\App.g.cs
 C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\rss_atom_reader_MarkupCompile.cache
 C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\rss_atom_reader.g.resources
@@ -10,3 +10,4 @@ C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\rss_atom_reader.Properties.Res
 C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\rss_atom_reader.csproj.GenerateResource.Cache
 C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\rss_atom_reader.exe
 C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\rss_atom_reader.pdb
+C:\IFMO\rss_atom_reader\rss_atom_reader\obj\Debug\rss_atom_reader.csprojResolveAssemblyReference.cache

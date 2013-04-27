@@ -13,7 +13,7 @@ namespace rss_atom_reader
         {
             try
             {
-                XDocument doc = XDocument.Load(channel.link);
+                XDocument doc = XDocument.Load(channel.Link);
                 // RSS/Channel/item
                 var entries = from item in doc.Root.Descendants().First(i => i.Name.LocalName == "channel").Elements().Where(i => i.Name.LocalName == "item")
                               select new RssItem
