@@ -1,0 +1,28 @@
+﻿<Window x:Class="rss_atom_reader.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox Name="link_box" Text="{Binding Path=Link}"  HorizontalAlignment="Left" Height="34" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="394"/>
+        <Button Content="Add channel" HorizontalAlignment="Left" Margin="409,10,0,0" VerticalAlignment="Top" Width="98" Height="34" Command="{Binding Path=UpdateCommand}"/>
+        <ListView ItemsSource="{Binding Items}" HorizontalAlignment="Left" Height="211" Margin="10,49,0,0" VerticalAlignment="Top" Width="497">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Title" Width="100"  DisplayMemberBinding="{Binding Path=Title}"/>
+                    <GridViewColumn Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock>
+                  <Hyperlink NavigateUri="{Binding Path=Link}" MouseDown="Hyperlink_MouseDown_1">
+                    Link
+                  </Hyperlink>
+                </TextBlock>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>
